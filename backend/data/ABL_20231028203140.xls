@@ -1,0 +1,8260 @@
+
+    <table border=1>
+        <tr>
+            
+                <th>ORGANIZATION</th>
+				
+                <th>AWARDS</th>
+				
+                <th>FUNDING</th>
+				
+                <th>CITY</th>
+				
+                <th>STATE</th>
+				
+                <th>COUNTRY</th>
+				
+        </tr>
+        
+            <tr>
+                
+					<td>ADELPHI UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$377,484</td>
+				
+					<td>GARDEN CITY</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ADVANCED SCIENCE RESEARCH CENTER</td>
+				
+					<td>12</td>
+				
+                    <td>$4,186,933</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ALABAMA STATE UNIVERSITY</td>
+				
+					<td>4</td>
+				
+                    <td>$1,303,023</td>
+				
+					<td>MONTGOMERY</td>
+				
+					<td>AL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ALASKA PACIFIC UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$280,000</td>
+				
+					<td>ANCHORAGE</td>
+				
+					<td>AK</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ALBANY COLLEGE OF PHARMACY</td>
+				
+					<td>1</td>
+				
+                    <td>$480,000</td>
+				
+					<td>ALBANY</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ALBANY MEDICAL COLLEGE</td>
+				
+					<td>31</td>
+				
+                    <td>$11,989,017</td>
+				
+					<td>ALBANY</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ALBERT EINSTEIN COLLEGE OF MEDICINE</td>
+				
+					<td>339</td>
+				
+                    <td>$191,715,232</td>
+				
+					<td>BRONX</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>AMERICAN UNIVERSITY</td>
+				
+					<td>7</td>
+				
+                    <td>$2,150,534</td>
+				
+					<td>Washington</td>
+				
+					<td>DC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>AMHERST COLLEGE</td>
+				
+					<td>2</td>
+				
+                    <td>$450,749</td>
+				
+					<td>AMHERST</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>APPALACHIAN STATE UNIVERSITY</td>
+				
+					<td>4</td>
+				
+                    <td>$638,270</td>
+				
+					<td>BOONE</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ARIZONA STATE UNIVERSITY-TEMPE CAMPUS</td>
+				
+					<td>154</td>
+				
+                    <td>$58,441,200</td>
+				
+					<td>TEMPE</td>
+				
+					<td>AZ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>AUBURN UNIVERSITY AT AUBURN</td>
+				
+					<td>36</td>
+				
+                    <td>$12,019,901</td>
+				
+					<td>Auburn</td>
+				
+					<td>AL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>AUBURN UNIVERSITY AT MONTGOMERY</td>
+				
+					<td>1</td>
+				
+                    <td>$163,734</td>
+				
+					<td>MONTGOMERY</td>
+				
+					<td>AL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>AUGUSTA UNIVERSITY</td>
+				
+					<td>133</td>
+				
+                    <td>$62,481,490</td>
+				
+					<td>AUGUSTA</td>
+				
+					<td>GA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>AUGUSTANA COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$361,276</td>
+				
+					<td>ROCK ISLAND</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BABSON COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$316,241</td>
+				
+					<td>WELLESLEY</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BALL STATE UNIVERSITY</td>
+				
+					<td>5</td>
+				
+                    <td>$2,694,782</td>
+				
+					<td>MUNCIE</td>
+				
+					<td>IN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BARNARD COLLEGE</td>
+				
+					<td>5</td>
+				
+                    <td>$1,265,902</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BATES COLLEGE</td>
+				
+					<td>2</td>
+				
+                    <td>$664,442</td>
+				
+					<td>LEWISTON</td>
+				
+					<td>ME</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BAYLOR COLLEGE OF MEDICINE</td>
+				
+					<td>631</td>
+				
+                    <td>$318,528,477</td>
+				
+					<td>HOUSTON</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BAYLOR UNIVERSITY</td>
+				
+					<td>24</td>
+				
+                    <td>$6,651,003</td>
+				
+					<td>WACO</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BENEDICT COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$97,389</td>
+				
+					<td>COLUMBIA</td>
+				
+					<td>SC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BENTLEY UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$379,139</td>
+				
+					<td>WALTHAM</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BERNARD M. BARUCH COLLEGE</td>
+				
+					<td>2</td>
+				
+                    <td>$442,314</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BLACKFEET COMMUNITY COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$533,007</td>
+				
+					<td>BROWNING</td>
+				
+					<td>MT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BLUEFIELD STATE UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$444,000</td>
+				
+					<td>BLUEFIELD</td>
+				
+					<td>WV</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BOISE STATE UNIVERSITY</td>
+				
+					<td>12</td>
+				
+                    <td>$6,913,579</td>
+				
+					<td>BOISE</td>
+				
+					<td>ID</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BOSTON COLLEGE</td>
+				
+					<td>45</td>
+				
+                    <td>$17,234,345</td>
+				
+					<td>CHESTNUT HILL</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BOSTON UNIVERSITY (CHARLES RIVER CAMPUS)</td>
+				
+					<td>169</td>
+				
+                    <td>$66,045,021</td>
+				
+					<td>BOSTON</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BOSTON UNIVERSITY MEDICAL CAMPUS</td>
+				
+					<td>283</td>
+				
+                    <td>$183,691,163</td>
+				
+					<td>BOSTON</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BOWIE STATE UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$252,025</td>
+				
+					<td>BOWIE</td>
+				
+					<td>MD</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BOWLING GREEN STATE UNIVERSITY</td>
+				
+					<td>8</td>
+				
+                    <td>$2,071,847</td>
+				
+					<td>BOWLING GREEN</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BRANDEIS UNIVERSITY</td>
+				
+					<td>82</td>
+				
+                    <td>$38,906,082</td>
+				
+					<td>WALTHAM</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BRIGHAM YOUNG UNIVERSITY</td>
+				
+					<td>15</td>
+				
+                    <td>$4,664,517</td>
+				
+					<td>PROVO</td>
+				
+					<td>UT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BROOKLYN COLLEGE</td>
+				
+					<td>12</td>
+				
+                    <td>$2,783,838</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BROWN UNIVERSITY</td>
+				
+					<td>285</td>
+				
+                    <td>$142,030,050</td>
+				
+					<td>PROVIDENCE</td>
+				
+					<td>RI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BRYN MAWR COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$418,606</td>
+				
+					<td>BRYN MAWR</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BUCKNELL UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$652,799</td>
+				
+					<td>LEWISBURG</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>BUTLER UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$280,963</td>
+				
+					<td>INDIANAPOLIS</td>
+				
+					<td>IN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA INSTITUTE OF TECHNOLOGY</td>
+				
+					<td>113</td>
+				
+                    <td>$62,534,605</td>
+				
+					<td>PASADENA</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA POLY STATE U SAN LUIS OBISPO</td>
+				
+					<td>4</td>
+				
+                    <td>$1,499,098</td>
+				
+					<td>SAN LUIS OBISPO</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE POLY U POMONA</td>
+				
+					<td>6</td>
+				
+                    <td>$1,359,001</td>
+				
+					<td>POMONA</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIV SAN BERNARDINO</td>
+				
+					<td>10</td>
+				
+                    <td>$1,562,418</td>
+				
+					<td>SAN BERNARDINO</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIV,  MONTEREY BAY</td>
+				
+					<td>2</td>
+				
+                    <td>$577,277</td>
+				
+					<td>SEASIDE</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIV-DOMINGUEZ HILLS</td>
+				
+					<td>4</td>
+				
+                    <td>$542,774</td>
+				
+					<td>CARSON</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIVERSITY FRESNO</td>
+				
+					<td>8</td>
+				
+                    <td>$1,655,194</td>
+				
+					<td>FRESNO</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIVERSITY FULLERTON</td>
+				
+					<td>10</td>
+				
+                    <td>$2,159,071</td>
+				
+					<td>FULLERTON</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIVERSITY HAYWARD</td>
+				
+					<td>2</td>
+				
+                    <td>$558,531</td>
+				
+					<td>HAYWARD</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIVERSITY LONG BEACH</td>
+				
+					<td>17</td>
+				
+                    <td>$5,554,196</td>
+				
+					<td>LONG BEACH</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIVERSITY LOS ANGELES</td>
+				
+					<td>5</td>
+				
+                    <td>$2,352,616</td>
+				
+					<td>LOS ANGELES</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIVERSITY NORTHRIDGE</td>
+				
+					<td>21</td>
+				
+                    <td>$7,659,268</td>
+				
+					<td>NORTHRIDGE</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIVERSITY SACRAMENTO</td>
+				
+					<td>3</td>
+				
+                    <td>$426,000</td>
+				
+					<td>SACRAMENTO</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIVERSITY SAN MARCOS</td>
+				
+					<td>9</td>
+				
+                    <td>$2,361,397</td>
+				
+					<td>SAN MARCOS</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CALIFORNIA STATE UNIVERSITY-STANISLAUS</td>
+				
+					<td>1</td>
+				
+                    <td>$107,250</td>
+				
+					<td>TURLOCK</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CARLETON COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$435,885</td>
+				
+					<td>NORTHFIELD</td>
+				
+					<td>MN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CARNEGIE-MELLON UNIVERSITY</td>
+				
+					<td>85</td>
+				
+                    <td>$41,996,715</td>
+				
+					<td>PITTSBURGH</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CASE WESTERN RESERVE UNIVERSITY</td>
+				
+					<td>361</td>
+				
+                    <td>$189,330,912</td>
+				
+					<td>CLEVELAND</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CATHOLIC UNIVERSITY OF AMERICA</td>
+				
+					<td>3</td>
+				
+                    <td>$946,876</td>
+				
+					<td>WASHINGTON</td>
+				
+					<td>DC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CENTRAL MICHIGAN UNIVERSITY</td>
+				
+					<td>13</td>
+				
+                    <td>$3,260,662</td>
+				
+					<td>MOUNT PLEASANT</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CHAPMAN UNIVERSITY</td>
+				
+					<td>14</td>
+				
+                    <td>$6,959,497</td>
+				
+					<td>ORANGE</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CHARLES R. DREW UNIVERSITY OF MED & SCI</td>
+				
+					<td>12</td>
+				
+                    <td>$8,580,823</td>
+				
+					<td>LOS ANGELES</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CHRISTIAN BROTHERS UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$205,900</td>
+				
+					<td>MEMPHIS</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CITY COLLEGE OF NEW YORK</td>
+				
+					<td>36</td>
+				
+                    <td>$12,906,833</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CLAFLIN UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$613,648</td>
+				
+					<td>ORANGEBURG</td>
+				
+					<td>SC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CLAREMONT GRADUATE UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$372,448</td>
+				
+					<td>CLAREMONT</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CLARK ATLANTA UNIVERSITY</td>
+				
+					<td>6</td>
+				
+                    <td>$4,293,492</td>
+				
+					<td>ATLANTA</td>
+				
+					<td>GA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CLARK UNIVERSITY (WORCESTER, MA)</td>
+				
+					<td>1</td>
+				
+                    <td>$98,045</td>
+				
+					<td>WORCESTER</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CLARKSON UNIVERSITY</td>
+				
+					<td>7</td>
+				
+                    <td>$1,593,646</td>
+				
+					<td>POTSDAM</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CLEMSON UNIVERSITY</td>
+				
+					<td>58</td>
+				
+                    <td>$24,911,219</td>
+				
+					<td>CLEMSON</td>
+				
+					<td>SC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CLEVELAND CLINIC LERNER COM-CWRU</td>
+				
+					<td>250</td>
+				
+                    <td>$136,480,833</td>
+				
+					<td>CLEVELAND</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CLEVELAND STATE UNIVERSITY</td>
+				
+					<td>18</td>
+				
+                    <td>$5,096,669</td>
+				
+					<td>CLEVELAND</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLBY COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$10,000</td>
+				
+					<td>WATERVILLE</td>
+				
+					<td>ME</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLGATE UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$405,000</td>
+				
+					<td>HAMILTON</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLLEGE AT OLD WESTBURY</td>
+				
+					<td>1</td>
+				
+                    <td>$79,850</td>
+				
+					<td>OLD WESTBURY</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLLEGE AT OSWEGO</td>
+				
+					<td>2</td>
+				
+                    <td>$582,567</td>
+				
+					<td>OSWEGO</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLLEGE AT PURCHASE</td>
+				
+					<td>1</td>
+				
+                    <td>$287,912</td>
+				
+					<td>PURCHASE</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLLEGE OF NEW JERSEY</td>
+				
+					<td>1</td>
+				
+                    <td>$416,953</td>
+				
+					<td>EWING</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLLEGE OF STATEN ISLAND</td>
+				
+					<td>4</td>
+				
+                    <td>$869,864</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLLEGE OF WILLIAM AND MARY</td>
+				
+					<td>6</td>
+				
+                    <td>$2,474,097</td>
+				
+					<td>WILLIAMSBURG</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLORADO SCHOOL OF MINES</td>
+				
+					<td>5</td>
+				
+                    <td>$1,314,819</td>
+				
+					<td>GOLDEN</td>
+				
+					<td>CO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLORADO STATE UNIVERSITY</td>
+				
+					<td>130</td>
+				
+                    <td>$47,451,637</td>
+				
+					<td>FORT COLLINS</td>
+				
+					<td>CO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLUMBIA UNIV NEW YORK MORNINGSIDE</td>
+				
+					<td>131</td>
+				
+                    <td>$47,127,482</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLUMBIA UNIVERSITY HEALTH SCIENCES</td>
+				
+					<td>1062</td>
+				
+                    <td>$631,083,322</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>COLUMBIA UNIVERSITY TEACHERS COLLEGE</td>
+				
+					<td>6</td>
+				
+                    <td>$1,828,067</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CORNELL UNIVERSITY</td>
+				
+					<td>252</td>
+				
+                    <td>$108,368,357</td>
+				
+					<td>ITHACA</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CREIGHTON UNIVERSITY</td>
+				
+					<td>20</td>
+				
+                    <td>$8,593,328</td>
+				
+					<td>OMAHA</td>
+				
+					<td>NE</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CUNY GRADUATE SCH AND UNIV CTR</td>
+				
+					<td>3</td>
+				
+                    <td>$106,775</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>CUYAHOGA COMMUNITY COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$121,726</td>
+				
+					<td>CLEVELAND</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DANA-FARBER CANCER INST</td>
+				
+					<td>7</td>
+				
+                    <td>$1,717,842</td>
+				
+					<td>BOSTON</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DARTMOUTH COLLEGE</td>
+				
+					<td>165</td>
+				
+                    <td>$94,299,442</td>
+				
+					<td>HANOVER</td>
+				
+					<td>NH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DAVIDSON COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$410,141</td>
+				
+					<td>DAVIDSON</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DE PAUL UNIVERSITY</td>
+				
+					<td>3</td>
+				
+                    <td>$2,887,785</td>
+				
+					<td>CHICAGO</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DELAWARE STATE UNIVERSITY</td>
+				
+					<td>10</td>
+				
+                    <td>$6,802,951</td>
+				
+					<td>DOVER</td>
+				
+					<td>DE</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DES MOINES UNIV OSTEOPATHIC MEDICAL CTR</td>
+				
+					<td>1</td>
+				
+                    <td>$152,000</td>
+				
+					<td>WEST DES MOINES</td>
+				
+					<td>IA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DICKINSON COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$351,294</td>
+				
+					<td>CARLISLE</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DILLARD UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$336,164</td>
+				
+					<td>NEW ORLEANS</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DINE' COLLEGE</td>
+				
+					<td>2</td>
+				
+                    <td>$1,509,306</td>
+				
+					<td>TSAILE</td>
+				
+					<td>AZ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DREXEL UNIVERSITY</td>
+				
+					<td>151</td>
+				
+                    <td>$65,182,410</td>
+				
+					<td>PHILADELPHIA</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DUKE UNIVERSITY</td>
+				
+					<td>995</td>
+				
+                    <td>$624,042,520</td>
+				
+					<td>DURHAM</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>DUQUESNE UNIVERSITY</td>
+				
+					<td>9</td>
+				
+                    <td>$2,450,493</td>
+				
+					<td>PITTSBURGH</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>EAST CAROLINA UNIVERSITY</td>
+				
+					<td>26</td>
+				
+                    <td>$9,263,765</td>
+				
+					<td>GREENVILLE</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>EAST TENNESSEE STATE UNIVERSITY</td>
+				
+					<td>18</td>
+				
+                    <td>$5,709,661</td>
+				
+					<td>JOHNSON CITY</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>EASTERN MICHIGAN UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$1,560,608</td>
+				
+					<td>YPSILANTI</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>EASTERN VIRGINIA MEDICAL SCHOOL</td>
+				
+					<td>15</td>
+				
+                    <td>$7,016,071</td>
+				
+					<td>NORFOLK</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>EL PASO COMMUNITY COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$264,380</td>
+				
+					<td>EL PASO</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>EMORY UNIVERSITY</td>
+				
+					<td>871</td>
+				
+                    <td>$468,469,575</td>
+				
+					<td>ATLANTA</td>
+				
+					<td>GA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FAIRLEIGH DICKINSON UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$257,191</td>
+				
+					<td>TEANECK</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FAYETTEVILLE STATE UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$322,072</td>
+				
+					<td>FAYETTEVILLE</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FISK UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$233,795</td>
+				
+					<td>NASHVILLE</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FLORIDA AGRICULTURAL AND MECHANICAL UNIV</td>
+				
+					<td>11</td>
+				
+                    <td>$6,042,714</td>
+				
+					<td>TALLAHASSEE</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FLORIDA ATLANTIC UNIVERSITY</td>
+				
+					<td>23</td>
+				
+                    <td>$7,161,877</td>
+				
+					<td>BOCA RATON</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FLORIDA GULF COAST UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$458,788</td>
+				
+					<td>FORT MYERS</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FLORIDA INSTITUTE OF TECHNOLOGY</td>
+				
+					<td>2</td>
+				
+                    <td>$880,207</td>
+				
+					<td>MELBOURNE</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FLORIDA INTERNATIONAL UNIVERSITY</td>
+				
+					<td>97</td>
+				
+                    <td>$43,335,569</td>
+				
+					<td>MIAMI</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FLORIDA STATE UNIVERSITY</td>
+				
+					<td>109</td>
+				
+                    <td>$64,160,580</td>
+				
+					<td>TALLAHASSEE</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FORDHAM UNIVERSITY</td>
+				
+					<td>12</td>
+				
+                    <td>$4,179,742</td>
+				
+					<td>BRONX</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FORT LEWIS COLLEGE</td>
+				
+					<td>4</td>
+				
+                    <td>$596,499</td>
+				
+					<td>DURANGO</td>
+				
+					<td>CO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>FURMAN UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$781,156</td>
+				
+					<td>GREENVILLE</td>
+				
+					<td>SC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>GALLAUDET UNIVERSITY</td>
+				
+					<td>4</td>
+				
+                    <td>$1,704,147</td>
+				
+					<td>WASHINGTON</td>
+				
+					<td>DC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>GEORGE MASON UNIVERSITY</td>
+				
+					<td>29</td>
+				
+                    <td>$17,748,645</td>
+				
+					<td>FAIRFAX</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>GEORGE WASHINGTON UNIVERSITY</td>
+				
+					<td>123</td>
+				
+                    <td>$73,717,764</td>
+				
+					<td>WASHINGTON</td>
+				
+					<td>DC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>GEORGETOWN UNIVERSITY</td>
+				
+					<td>132</td>
+				
+                    <td>$54,141,820</td>
+				
+					<td>WASHINGTON</td>
+				
+					<td>DC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>GEORGIA INSTITUTE OF TECHNOLOGY</td>
+				
+					<td>121</td>
+				
+                    <td>$45,410,655</td>
+				
+					<td>ATLANTA</td>
+				
+					<td>GA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>GEORGIA SOUTHERN UNIVERSITY</td>
+				
+					<td>4</td>
+				
+                    <td>$1,089,965</td>
+				
+					<td>STATESBORO</td>
+				
+					<td>GA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>GEORGIA STATE UNIVERSITY</td>
+				
+					<td>83</td>
+				
+                    <td>$38,890,220</td>
+				
+					<td>ATLANTA</td>
+				
+					<td>GA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>GRADUATE SCHOOL OF PUBLIC HEALTH AND HEALTH POLICY</td>
+				
+					<td>16</td>
+				
+                    <td>$10,525,398</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HAMPTON UNIVERSITY</td>
+				
+					<td>3</td>
+				
+                    <td>$1,569,404</td>
+				
+					<td>HAMPTON</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HARVARD MEDICAL SCHOOL</td>
+				
+					<td>356</td>
+				
+                    <td>$173,079,812</td>
+				
+					<td>BOSTON</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HARVARD SCHOOL OF PUBLIC HEALTH</td>
+				
+					<td>161</td>
+				
+                    <td>$141,710,093</td>
+				
+					<td>BOSTON</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HARVARD UNIVERSITY</td>
+				
+					<td>142</td>
+				
+                    <td>$84,336,078</td>
+				
+					<td>CAMBRIDGE</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HENRY FORD HEALTH + MICHIGAN STATE UNIVERSITY HEALTH SCIENCES</td>
+				
+					<td>9</td>
+				
+                    <td>$27,127,248</td>
+				
+					<td>EAST LANSING</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HERBERT H. LEHMAN COLLEGE</td>
+				
+					<td>10</td>
+				
+                    <td>$1,466,559</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HIGH POINT UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$447,000</td>
+				
+					<td>HIGH POINT</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HOBART AND WILLIAM SMITH COLLEGES</td>
+				
+					<td>1</td>
+				
+                    <td>$386,781</td>
+				
+					<td>GENEVA</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HOFSTRA UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$348,726</td>
+				
+					<td>HEMPSTEAD</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HOWARD UNIVERSITY</td>
+				
+					<td>19</td>
+				
+                    <td>$10,147,287</td>
+				
+					<td>WASHINGTON</td>
+				
+					<td>DC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HUMBOLDT STATE UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$147,500</td>
+				
+					<td>ARCATA</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>HUNTER COLLEGE</td>
+				
+					<td>31</td>
+				
+                    <td>$13,081,095</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI</td>
+				
+					<td>739</td>
+				
+                    <td>$448,202,621</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>IDAHO STATE UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$811,772</td>
+				
+					<td>POCATELLO</td>
+				
+					<td>ID</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ILLINOIS INSTITUTE OF TECHNOLOGY</td>
+				
+					<td>12</td>
+				
+                    <td>$5,371,544</td>
+				
+					<td>CHICAGO</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ILLINOIS STATE UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$433,889</td>
+				
+					<td>NORMAL</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>INDIANA UNIV-PURDUE UNIV AT INDIANAPOLIS</td>
+				
+					<td>441</td>
+				
+                    <td>$258,399,872</td>
+				
+					<td>INDIANAPOLIS</td>
+				
+					<td>IN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>IOWA STATE UNIVERSITY</td>
+				
+					<td>61</td>
+				
+                    <td>$19,951,353</td>
+				
+					<td>AMES</td>
+				
+					<td>IA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>JACKSON STATE UNIVERSITY</td>
+				
+					<td>6</td>
+				
+                    <td>$5,599,180</td>
+				
+					<td>JACKSON</td>
+				
+					<td>MS</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>JAMES MADISON UNIVERSITY</td>
+				
+					<td>4</td>
+				
+                    <td>$850,304</td>
+				
+					<td>HARRISONBURG</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>JOHN JAY COLLEGE OF CRIMINAL JUSTICE</td>
+				
+					<td>3</td>
+				
+                    <td>$497,851</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>JOHNS HOPKINS UNIVERSITY</td>
+				
+					<td>1462</td>
+				
+                    <td>$819,872,932</td>
+				
+					<td>BALTIMORE</td>
+				
+					<td>MD</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>KANSAS CITY UNIV OF MEDICINE/BIOSCIENCES</td>
+				
+					<td>2</td>
+				
+                    <td>$635,633</td>
+				
+					<td>KANSAS CITY</td>
+				
+					<td>MO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>KANSAS STATE UNIVERSITY</td>
+				
+					<td>29</td>
+				
+                    <td>$10,756,547</td>
+				
+					<td>MANHATTAN</td>
+				
+					<td>KS</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>KECK GRADUATE INST OF APPLIED LIFE SCIS</td>
+				
+					<td>4</td>
+				
+                    <td>$2,121,521</td>
+				
+					<td>CLAREMONT</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>KENNESAW STATE UNIVERSITY</td>
+				
+					<td>14</td>
+				
+                    <td>$4,699,205</td>
+				
+					<td>KENNESAW</td>
+				
+					<td>GA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>KENT STATE UNIVERSITY</td>
+				
+					<td>16</td>
+				
+                    <td>$5,229,791</td>
+				
+					<td>KENT</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>KENYON COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$347,805</td>
+				
+					<td>GAMBIER</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LAGUARDIA COMMUNITY COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$337,380</td>
+				
+					<td>LONG ISLAND CITY</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LEHIGH UNIVERSITY</td>
+				
+					<td>32</td>
+				
+                    <td>$10,207,178</td>
+				
+					<td>BETHLEHEM</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LELAND STANFORD JUNIOR UNIVERSITY, THE</td>
+				
+					<td>1</td>
+				
+                    <td>$1,303,780</td>
+				
+					<td>MENLO PARK</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LEWIS AND CLARK COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$411,150</td>
+				
+					<td>PORTLAND</td>
+				
+					<td>OR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LEWIS-CLARK STATE COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$168,750</td>
+				
+					<td>LEWISTON</td>
+				
+					<td>ID</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LIBERTY UNIVERSITY, INC.</td>
+				
+					<td>1</td>
+				
+                    <td>$372,846</td>
+				
+					<td>LYNCHBURG</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LOMA LINDA UNIVERSITY</td>
+				
+					<td>20</td>
+				
+                    <td>$9,361,951</td>
+				
+					<td>LOMA LINDA</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LONG ISLAND UNIVERSITY BROOKLYN CAMPUS</td>
+				
+					<td>1</td>
+				
+                    <td>$237,127</td>
+				
+					<td>GREENVALE</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LOUISIANA STATE UNIV A&M COL BATON ROUGE</td>
+				
+					<td>41</td>
+				
+                    <td>$20,661,061</td>
+				
+					<td>BATON ROUGE</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LOUISIANA STATE UNIV AGRICULTURAL CENTER</td>
+				
+					<td>5</td>
+				
+                    <td>$1,673,542</td>
+				
+					<td>BATON ROUGE</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LOUISIANA STATE UNIV HSC SHREVEPORT</td>
+				
+					<td>36</td>
+				
+                    <td>$17,379,442</td>
+				
+					<td>SHREVEPORT</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LOUISIANA TECH UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$469,090</td>
+				
+					<td>RUSTON</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LOYOLA MARYMOUNT UNIVERSITY</td>
+				
+					<td>7</td>
+				
+                    <td>$1,814,671</td>
+				
+					<td>LOS ANGELES</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LOYOLA UNIVERSITY CHICAGO</td>
+				
+					<td>66</td>
+				
+                    <td>$22,046,858</td>
+				
+					<td>MAYWOOD</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LOYOLA UNIVERSITY OF CHICAGO</td>
+				
+					<td>4</td>
+				
+                    <td>$1,770,933</td>
+				
+					<td>CHICAGO</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LSU HEALTH SCIENCES CENTER</td>
+				
+					<td>66</td>
+				
+                    <td>$23,726,746</td>
+				
+					<td>NEW ORLEANS</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>LSU PENNINGTON BIOMEDICAL RESEARCH CTR</td>
+				
+					<td>43</td>
+				
+                    <td>$25,028,248</td>
+				
+					<td>BATON ROUGE</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MANHATTAN COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$434,531</td>
+				
+					<td>RIVERDALE</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MARIAN UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$208,893</td>
+				
+					<td>INDIANAPOLIS</td>
+				
+					<td>IN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MARQUETTE UNIVERSITY</td>
+				
+					<td>31</td>
+				
+                    <td>$10,805,120</td>
+				
+					<td>MILWAUKEE</td>
+				
+					<td>WI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MARSHALL UNIVERSITY</td>
+				
+					<td>9</td>
+				
+                    <td>$5,779,197</td>
+				
+					<td>Huntington</td>
+				
+					<td>WV</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MARYMOUNT UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$83,271</td>
+				
+					<td>ARLINGTON</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</td>
+				
+					<td>261</td>
+				
+                    <td>$119,533,252</td>
+				
+					<td>CAMBRIDGE</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MEDGAR EVERS COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$309,783</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MEDICAL COLLEGE OF WISCONSIN</td>
+				
+					<td>236</td>
+				
+                    <td>$131,715,725</td>
+				
+					<td>MILWAUKEE</td>
+				
+					<td>WI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MEDICAL UNIVERSITY OF SOUTH CAROLINA</td>
+				
+					<td>293</td>
+				
+                    <td>$137,261,200</td>
+				
+					<td>CHARLESTON</td>
+				
+					<td>SC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MEHARRY MEDICAL COLLEGE</td>
+				
+					<td>28</td>
+				
+                    <td>$15,422,576</td>
+				
+					<td>NASHVILLE</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MERCER UNIVERSITY MACON</td>
+				
+					<td>3</td>
+				
+                    <td>$479,687</td>
+				
+					<td>MACON</td>
+				
+					<td>GA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MERRIMACK COLLEGE</td>
+				
+					<td>4</td>
+				
+                    <td>$856,852</td>
+				
+					<td>NORTH ANDOVER</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>METROPOLITAN STATE UNIVERSITY OF DENVER</td>
+				
+					<td>1</td>
+				
+                    <td>$346,528</td>
+				
+					<td>DENVER</td>
+				
+					<td>CO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MIAMI UNIVERSITY OXFORD</td>
+				
+					<td>11</td>
+				
+                    <td>$3,509,414</td>
+				
+					<td>OXFORD</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MICHIGAN STATE UNIVERSITY</td>
+				
+					<td>217</td>
+				
+                    <td>$91,574,142</td>
+				
+					<td>EAST LANSING</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MICHIGAN TECHNOLOGICAL UNIVERSITY</td>
+				
+					<td>19</td>
+				
+                    <td>$6,989,531</td>
+				
+					<td>HOUGHTON</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MIDDLE TENNESSEE STATE UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$455,397</td>
+				
+					<td>MURFREESBORO</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MIDWESTERN UNIVERSITY</td>
+				
+					<td>5</td>
+				
+                    <td>$1,752,425</td>
+				
+					<td>DOWNERS GROVE</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MIDWESTERN UNIVERSITY (GLENDALE AZ)</td>
+				
+					<td>2</td>
+				
+                    <td>$957,649</td>
+				
+					<td>GLENDALE</td>
+				
+					<td>AZ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MISSISSIPPI STATE UNIVERSITY</td>
+				
+					<td>8</td>
+				
+                    <td>$2,188,146</td>
+				
+					<td>MISSISSIPPI STATE</td>
+				
+					<td>MS</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MISSOURI UNIVERSITY OF SCIENCE & TECHNOLOGY</td>
+				
+					<td>5</td>
+				
+                    <td>$986,447</td>
+				
+					<td>ROLLA</td>
+				
+					<td>MO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MONTANA STATE UNIVERSITY - BOZEMAN</td>
+				
+					<td>33</td>
+				
+                    <td>$15,410,125</td>
+				
+					<td>BOZEMAN</td>
+				
+					<td>MT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MONTANA STATE UNIVERSITY -BILLINGS</td>
+				
+					<td>1</td>
+				
+                    <td>$244,202</td>
+				
+					<td>BILLINGS</td>
+				
+					<td>MT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MONTANA TECHNOLOGICAL UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$232,101</td>
+				
+					<td>BUTTE</td>
+				
+					<td>MT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MONTCLAIR STATE UNIVERSITY</td>
+				
+					<td>3</td>
+				
+                    <td>$1,178,594</td>
+				
+					<td>MONTCLAIR</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MORAVIAN UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$409,139</td>
+				
+					<td>BETHLEHEM</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MOREHEAD STATE UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$15,614</td>
+				
+					<td>MOREHEAD</td>
+				
+					<td>KY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MOREHOUSE SCHOOL OF MEDICINE</td>
+				
+					<td>34</td>
+				
+                    <td>$24,322,396</td>
+				
+					<td>ATLANTA</td>
+				
+					<td>GA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MORGAN STATE UNIVERSITY</td>
+				
+					<td>7</td>
+				
+                    <td>$5,629,078</td>
+				
+					<td>BALTIMORE</td>
+				
+					<td>MD</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>MOUNT ST. MARY'S UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$612,605</td>
+				
+					<td>EMMITSBURG</td>
+				
+					<td>MD</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NEW ENGLAND COLLEGE OF OPTOMETRY</td>
+				
+					<td>2</td>
+				
+                    <td>$354,787</td>
+				
+					<td>BOSTON</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NEW JERSEY INSTITUTE OF TECHNOLOGY</td>
+				
+					<td>15</td>
+				
+                    <td>$3,686,660</td>
+				
+					<td>NEWARK</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NEW MEXICO HIGHLANDS UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$185,625</td>
+				
+					<td>LAS VEGAS</td>
+				
+					<td>NM</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NEW MEXICO INST OF MINING & TECHNOLOGY</td>
+				
+					<td>1</td>
+				
+                    <td>$355,584</td>
+				
+					<td>SOCORRO</td>
+				
+					<td>NM</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NEW MEXICO STATE UNIVERSITY LAS CRUCES</td>
+				
+					<td>13</td>
+				
+                    <td>$7,885,466</td>
+				
+					<td>LAS CRUCES</td>
+				
+					<td>NM</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NEW YORK INST OF TECHNOLOGY</td>
+				
+					<td>8</td>
+				
+                    <td>$3,398,079</td>
+				
+					<td>OLD WESTBURY</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NEW YORK MEDICAL COLLEGE</td>
+				
+					<td>20</td>
+				
+                    <td>$8,210,969</td>
+				
+					<td>VALHALLA</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NEW YORK UNIVERSITY</td>
+				
+					<td>217</td>
+				
+                    <td>$90,000,055</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NEW YORK UNIVERSITY SCHOOL OF MEDICINE</td>
+				
+					<td>592</td>
+				
+                    <td>$424,839,347</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTH CAROLINA AGRI & TECH ST UNIV</td>
+				
+					<td>15</td>
+				
+                    <td>$4,668,635</td>
+				
+					<td>GREENSBORO</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTH CAROLINA CENTRAL UNIVERSITY</td>
+				
+					<td>10</td>
+				
+                    <td>$6,980,577</td>
+				
+					<td>DURHAM</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTH CAROLINA STATE UNIVERSITY RALEIGH</td>
+				
+					<td>114</td>
+				
+                    <td>$42,514,003</td>
+				
+					<td>RALEIGH</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTH DAKOTA STATE UNIVERSITY</td>
+				
+					<td>11</td>
+				
+                    <td>$4,880,354</td>
+				
+					<td>FARGO</td>
+				
+					<td>ND</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTHEAST OHIO MEDICAL UNIVERSITY</td>
+				
+					<td>19</td>
+				
+                    <td>$7,529,972</td>
+				
+					<td>ROOTSTOWN</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTHEASTERN ILLINOIS UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$1,262,954</td>
+				
+					<td>CHICAGO</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTHEASTERN UNIVERSITY</td>
+				
+					<td>107</td>
+				
+                    <td>$54,713,945</td>
+				
+					<td>BOSTON</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTHERN ARIZONA UNIVERSITY</td>
+				
+					<td>16</td>
+				
+                    <td>$12,591,722</td>
+				
+					<td>FLAGSTAFF</td>
+				
+					<td>AZ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTHERN ILLINOIS UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$186,250</td>
+				
+					<td>DE KALB</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTHERN KENTUCKY UNIVERSITY</td>
+				
+					<td>5</td>
+				
+                    <td>$1,366,000</td>
+				
+					<td>HIGHLAND HEIGHTS</td>
+				
+					<td>KY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTHERN VERMONT UNIVERSITY-JOHNSON</td>
+				
+					<td>1</td>
+				
+                    <td>$136,553</td>
+				
+					<td>JOHNSON</td>
+				
+					<td>VT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTHWESTERN UNIVERSITY</td>
+				
+					<td>131</td>
+				
+                    <td>$50,045,376</td>
+				
+					<td>Chicago</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORTHWESTERN UNIVERSITY AT CHICAGO</td>
+				
+					<td>714</td>
+				
+                    <td>$404,394,226</td>
+				
+					<td>CHICAGO</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NORWICH UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$133,093</td>
+				
+					<td>NORTHFIELD</td>
+				
+					<td>VT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NOVA SOUTHEASTERN UNIVERSITY</td>
+				
+					<td>13</td>
+				
+                    <td>$3,516,286</td>
+				
+					<td>Fort Lauderdale-Davie</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>NYU LONG ISLAND SCHOOL OF MEDICINE</td>
+				
+					<td>7</td>
+				
+                    <td>$5,329,008</td>
+				
+					<td>MINEOLA</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>OAKLAND UNIVERSITY</td>
+				
+					<td>12</td>
+				
+                    <td>$3,093,791</td>
+				
+					<td>ROCHESTER</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>OCCIDENTAL COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$341,831</td>
+				
+					<td>LOS ANGELES</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>OHIO STATE UNIVERSITY</td>
+				
+					<td>565</td>
+				
+                    <td>$250,884,807</td>
+				
+					<td>COLUMBUS</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>OHIO UNIVERSITY ATHENS</td>
+				
+					<td>20</td>
+				
+                    <td>$7,411,506</td>
+				
+					<td>ATHENS</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>OKLAHOMA STATE UNIVERSITY STILLWATER</td>
+				
+					<td>28</td>
+				
+                    <td>$9,789,967</td>
+				
+					<td>STILLWATER</td>
+				
+					<td>OK</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>OLD DOMINION UNIVERSITY</td>
+				
+					<td>9</td>
+				
+                    <td>$2,418,545</td>
+				
+					<td>NORFOLK</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>OREGON HEALTH & SCIENCE UNIVERSITY</td>
+				
+					<td>505</td>
+				
+                    <td>$287,801,051</td>
+				
+					<td>PORTLAND</td>
+				
+					<td>OR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>OREGON STATE UNIVERSITY</td>
+				
+					<td>60</td>
+				
+                    <td>$33,952,143</td>
+				
+					<td>CORVALLIS</td>
+				
+					<td>OR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>OSU CENTER FOR HEALTH SCIENCES</td>
+				
+					<td>9</td>
+				
+                    <td>$4,104,152</td>
+				
+					<td>TULSA</td>
+				
+					<td>OK</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>OUACHITA BAPTIST UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$254,743</td>
+				
+					<td>ARKADELPHIA</td>
+				
+					<td>AR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PACE UNIVERSITY NEW YORK</td>
+				
+					<td>2</td>
+				
+                    <td>$510,399</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PACIFIC UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$545,838</td>
+				
+					<td>FOREST GROVE</td>
+				
+					<td>OR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PALO ALTO UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$279,447</td>
+				
+					<td>PALO ALTO</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PENNSYLVANIA STATE UNIV HERSHEY MED CTR</td>
+				
+					<td>144</td>
+				
+                    <td>$70,977,630</td>
+				
+					<td>HERSHEY</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PENNSYLVANIA STATE UNIVERSITY, THE</td>
+				
+					<td>211</td>
+				
+                    <td>$80,879,957</td>
+				
+					<td>UNIVERSITY PARK</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PHILADELPHIA COLLEGE OF OSTEOPATHIC MED</td>
+				
+					<td>1</td>
+				
+                    <td>$151,600</td>
+				
+					<td>PHILADELPHIA</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PONCE SCHOOL OF MEDICINE</td>
+				
+					<td>8</td>
+				
+                    <td>$8,098,842</td>
+				
+					<td>PONCE</td>
+				
+					<td>PR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PORTLAND COMMUNITY COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$128,637</td>
+				
+					<td>PORTLAND</td>
+				
+					<td>OR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PORTLAND STATE UNIVERSITY</td>
+				
+					<td>17</td>
+				
+                    <td>$6,436,207</td>
+				
+					<td>PORTLAND</td>
+				
+					<td>OR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PRAIRIE VIEW AGRI & MECH UNIVERSITY</td>
+				
+					<td>3</td>
+				
+                    <td>$1,033,725</td>
+				
+					<td>Prairie View</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PRINCETON UNIVERSITY</td>
+				
+					<td>103</td>
+				
+                    <td>$49,254,899</td>
+				
+					<td>Princeton</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PROVIDENCE COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$407,325</td>
+				
+					<td>PROVIDENCE</td>
+				
+					<td>RI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>PURDUE UNIVERSITY</td>
+				
+					<td>169</td>
+				
+                    <td>$67,946,581</td>
+				
+					<td>WEST LAFAYETTE</td>
+				
+					<td>IN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>QUEENS COLLEGE</td>
+				
+					<td>13</td>
+				
+                    <td>$4,214,843</td>
+				
+					<td>FLUSHING</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>RAMAPO COLLEGE OF NEW JERSEY</td>
+				
+					<td>1</td>
+				
+                    <td>$20,000</td>
+				
+					<td>MAHWAH</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>RENSSELAER POLYTECHNIC INSTITUTE</td>
+				
+					<td>20</td>
+				
+                    <td>$9,229,127</td>
+				
+					<td>TROY</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>RICE UNIVERSITY</td>
+				
+					<td>79</td>
+				
+                    <td>$30,018,645</td>
+				
+					<td>HOUSTON</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ROCHESTER INSTITUTE OF TECHNOLOGY</td>
+				
+					<td>20</td>
+				
+                    <td>$5,371,108</td>
+				
+					<td>ROCHESTER</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ROCKEFELLER UNIVERSITY</td>
+				
+					<td>137</td>
+				
+                    <td>$80,094,885</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ROSALIND FRANKLIN UNIV OF MEDICINE & SCI</td>
+				
+					<td>20</td>
+				
+                    <td>$6,886,464</td>
+				
+					<td>NORTH CHICAGO</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ROWAN UNIVERSITY</td>
+				
+					<td>18</td>
+				
+                    <td>$6,427,550</td>
+				
+					<td>GLASSBORO</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ROWAN UNIVERSITY SCHOOL/OSTEOPATHIC MED</td>
+				
+					<td>6</td>
+				
+                    <td>$1,540,765</td>
+				
+					<td>STRATFORD</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>RUSH UNIVERSITY MEDICAL CENTER</td>
+				
+					<td>107</td>
+				
+                    <td>$71,171,712</td>
+				
+					<td>CHICAGO</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>RUTGERS BIOMEDICAL AND HEALTH SCIENCES</td>
+				
+					<td>341</td>
+				
+                    <td>$184,292,439</td>
+				
+					<td>Newark</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>RUTGERS THE STATE UNIV OF NJ CAMDEN</td>
+				
+					<td>3</td>
+				
+                    <td>$971,009</td>
+				
+					<td>CAMDEN</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>RUTGERS THE STATE UNIV OF NJ NEWARK</td>
+				
+					<td>23</td>
+				
+                    <td>$9,472,563</td>
+				
+					<td>NEWARK</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>RUTGERS, THE STATE UNIV OF N.J.</td>
+				
+					<td>128</td>
+				
+                    <td>$53,426,358</td>
+				
+					<td>PISCATAWAY</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SAINT JOSEPH'S UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$118,970</td>
+				
+					<td>PHILADELPHIA</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SAINT LOUIS UNIVERSITY</td>
+				
+					<td>63</td>
+				
+                    <td>$23,747,340</td>
+				
+					<td>SAINT LOUIS</td>
+				
+					<td>MO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SALISH KOOTENAI COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$97,137</td>
+				
+					<td>PABLO</td>
+				
+					<td>MT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SALUS UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$875,372</td>
+				
+					<td>ELKINS PARK</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SAM HOUSTON STATE UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$707,534</td>
+				
+					<td>HUNTSVILLE</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SAN DIEGO STATE UNIVERSITY</td>
+				
+					<td>74</td>
+				
+                    <td>$34,415,913</td>
+				
+					<td>SAN DIEGO</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SAN FRANCISCO STATE UNIVERSITY</td>
+				
+					<td>14</td>
+				
+                    <td>$6,867,741</td>
+				
+					<td>SAN FRANCISCO</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SAN JOSE STATE UNIVERSITY</td>
+				
+					<td>15</td>
+				
+                    <td>$2,139,882</td>
+				
+					<td>SAN JOSE</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SANTA CLARA UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$81,386</td>
+				
+					<td>SANTA CLARA</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SEATTLE UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$99,207</td>
+				
+					<td>SEATTLE</td>
+				
+					<td>WA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SETON HALL UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$574,099</td>
+				
+					<td>SOUTH ORANGE</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SIENA COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$309,172</td>
+				
+					<td>LOUDONVILLE</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SMITH COLLEGE</td>
+				
+					<td>4</td>
+				
+                    <td>$1,089,270</td>
+				
+					<td>NORTHAMPTON</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SOUTH CAROLINA STATE UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$350,000</td>
+				
+					<td>ORANGEBURG</td>
+				
+					<td>SC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SOUTH DAKOTA STATE UNIVERSITY</td>
+				
+					<td>6</td>
+				
+                    <td>$3,351,368</td>
+				
+					<td>BROOKINGS</td>
+				
+					<td>SD</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SOUTHERN ILLINOIS UNIV AT EDWARDSVILLE</td>
+				
+					<td>2</td>
+				
+                    <td>$433,181</td>
+				
+					<td>EDWARDSVILLE</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SOUTHERN ILLINOIS UNIVERSITY CARBONDALE</td>
+				
+					<td>12</td>
+				
+                    <td>$3,705,718</td>
+				
+					<td>CARBONDALE</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SOUTHERN ILLINOIS UNIVERSITY SCH OF MED</td>
+				
+					<td>3</td>
+				
+                    <td>$1,196,429</td>
+				
+					<td>SPRINGFIELD</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SOUTHERN METHODIST UNIVERSITY</td>
+				
+					<td>10</td>
+				
+                    <td>$4,763,771</td>
+				
+					<td>DALLAS</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SOUTHERN UNIV A&M COL BATON ROUGE</td>
+				
+					<td>1</td>
+				
+                    <td>$105,000</td>
+				
+					<td>BATON ROUGE</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SPELMAN COLLEGE</td>
+				
+					<td>2</td>
+				
+                    <td>$698,147</td>
+				
+					<td>ATLANTA</td>
+				
+					<td>GA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ST. CATHERINE UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$326,467</td>
+				
+					<td>ST. PAUL</td>
+				
+					<td>MN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ST. JOHN'S UNIVERSITY</td>
+				
+					<td>15</td>
+				
+                    <td>$3,300,130</td>
+				
+					<td>QUEENS</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ST. JUDE CHILDREN'S RESEARCH HOSPITAL GRADUATE SCHOOL OF BIOMEDICAL SCIENCES, LLC</td>
+				
+					<td>13</td>
+				
+                    <td>$556,022</td>
+				
+					<td>MEMPHIS</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ST. LOUIS COLLEGE OF PHARMACY</td>
+				
+					<td>5</td>
+				
+                    <td>$2,065,226</td>
+				
+					<td>St. Louis</td>
+				
+					<td>MO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ST. MARY'S UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$435,244</td>
+				
+					<td>SAN ANTONIO</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>ST. OLAF COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$64,637</td>
+				
+					<td>NORTHFIELD</td>
+				
+					<td>MN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>STANFORD UNIVERSITY</td>
+				
+					<td>1169</td>
+				
+                    <td>$661,094,912</td>
+				
+					<td>STANFORD</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>STATE COLLEGE OF OPTOMETRY</td>
+				
+					<td>8</td>
+				
+                    <td>$2,909,204</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>STATE UNIVERSITY NEW YORK STONY BROOK</td>
+				
+					<td>179</td>
+				
+                    <td>$67,087,530</td>
+				
+					<td>STONY BROOK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>STATE UNIVERSITY OF NEW YORK AT ALBANY</td>
+				
+					<td>43</td>
+				
+                    <td>$12,375,819</td>
+				
+					<td>ALBANY</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>STATE UNIVERSITY OF NEW YORK AT BUFFALO</td>
+				
+					<td>214</td>
+				
+                    <td>$81,750,938</td>
+				
+					<td>AMHERST</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>STATE UNIVERSITY OF NY,BINGHAMTON</td>
+				
+					<td>39</td>
+				
+                    <td>$13,441,268</td>
+				
+					<td>BINGHAMTON</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>STEVENS INSTITUTE OF TECHNOLOGY</td>
+				
+					<td>6</td>
+				
+                    <td>$2,315,009</td>
+				
+					<td>HOBOKEN</td>
+				
+					<td>NJ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>STILLMAN COLLEGE</td>
+				
+					<td>2</td>
+				
+                    <td>$8,218,978</td>
+				
+					<td>TUSCALOOSA</td>
+				
+					<td>AL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SUNY DOWNSTATE MEDICAL CENTER</td>
+				
+					<td>35</td>
+				
+                    <td>$25,185,893</td>
+				
+					<td>BROOKLYN</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SUNY POLYTECHNIC INSTITUTE</td>
+				
+					<td>1</td>
+				
+                    <td>$296,920</td>
+				
+					<td>ALBANY</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SWARTHMORE COLLEGE</td>
+				
+					<td>4</td>
+				
+                    <td>$802,749</td>
+				
+					<td>SWARTHMORE</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>SYRACUSE UNIVERSITY</td>
+				
+					<td>41</td>
+				
+                    <td>$11,972,697</td>
+				
+					<td>SYRACUSE</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEMPLE UNIV OF THE COMMONWEALTH</td>
+				
+					<td>188</td>
+				
+                    <td>$79,152,034</td>
+				
+					<td>PHILADELPHIA</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TENNESSEE STATE UNIVERSITY</td>
+				
+					<td>3</td>
+				
+                    <td>$1,723,846</td>
+				
+					<td>NASHVILLE</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS A&M AGRILIFE RESEARCH</td>
+				
+					<td>49</td>
+				
+                    <td>$18,371,040</td>
+				
+					<td>College Station</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS A&M UNIVERSITY</td>
+				
+					<td>80</td>
+				
+                    <td>$27,857,836</td>
+				
+					<td>COLLEGE STATION</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS A&M UNIVERSITY HEALTH SCIENCE CTR</td>
+				
+					<td>86</td>
+				
+                    <td>$29,151,386</td>
+				
+					<td>COLLEGE STATION</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS A&M UNIVERSITY-CORPUS CHRISTI</td>
+				
+					<td>1</td>
+				
+                    <td>$73,577</td>
+				
+					<td>CORPUS CHRISTI</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS A&M UNIVERSITY-KINGSVILLE</td>
+				
+					<td>5</td>
+				
+                    <td>$1,003,865</td>
+				
+					<td>KINGSVILLE</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS CHRISTIAN UNIVERSITY</td>
+				
+					<td>3</td>
+				
+                    <td>$2,331,254</td>
+				
+					<td>FORT WORTH</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS ENGINEERING EXPERIMENT STATION</td>
+				
+					<td>29</td>
+				
+                    <td>$10,642,208</td>
+				
+					<td>COLLEGE STATION</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS SOUTHERN UNIVERSITY</td>
+				
+					<td>5</td>
+				
+                    <td>$2,126,073</td>
+				
+					<td>HOUSTON</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS STATE UNIVERSITY</td>
+				
+					<td>11</td>
+				
+                    <td>$2,740,742</td>
+				
+					<td>SAN MARCOS</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS TECH UNIVERSITY</td>
+				
+					<td>17</td>
+				
+                    <td>$5,647,882</td>
+				
+					<td>LUBBOCK</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER AT EL PASO</td>
+				
+					<td>11</td>
+				
+                    <td>$3,659,620</td>
+				
+					<td>EL PASO</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS TECH UNIVERSITY HEALTH SCIS CENTER</td>
+				
+					<td>29</td>
+				
+                    <td>$11,912,110</td>
+				
+					<td>LUBBOCK</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TEXAS WOMAN'S UNIVERSITY</td>
+				
+					<td>6</td>
+				
+                    <td>$1,597,156</td>
+				
+					<td>DENTON</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>THOMAS JEFFERSON UNIVERSITY</td>
+				
+					<td>162</td>
+				
+                    <td>$67,002,705</td>
+				
+					<td>PHILADELPHIA</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TOURO UNIVERSITY OF CALIFORNIA</td>
+				
+					<td>3</td>
+				
+                    <td>$1,399,789</td>
+				
+					<td>VALLEJO</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TOWSON UNIVERSITY</td>
+				
+					<td>3</td>
+				
+                    <td>$857,959</td>
+				
+					<td>TOWSON</td>
+				
+					<td>MD</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TRINITY UNIVERSITY</td>
+				
+					<td>5</td>
+				
+                    <td>$1,123,169</td>
+				
+					<td>SAN ANTONIO</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TRUSTEES OF INDIANA UNIVERSITY</td>
+				
+					<td>116</td>
+				
+                    <td>$45,330,464</td>
+				
+					<td>BLOOMINGTON</td>
+				
+					<td>IN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TUFTS UNIVERSITY BOSTON</td>
+				
+					<td>146</td>
+				
+                    <td>$76,756,771</td>
+				
+					<td>BOSTON</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TUFTS UNIVERSITY MEDFORD</td>
+				
+					<td>32</td>
+				
+                    <td>$10,005,906</td>
+				
+					<td>Boston</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TULANE UNIVERSITY OF LOUISIANA</td>
+				
+					<td>164</td>
+				
+                    <td>$104,213,759</td>
+				
+					<td>NEW ORLEANS</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>TUSKEGEE UNIVERSITY</td>
+				
+					<td>5</td>
+				
+                    <td>$6,688,631</td>
+				
+					<td>TUSKEGEE INSTITUTE</td>
+				
+					<td>AL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNION COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$1</td>
+				
+					<td>SCHENECTADY</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIV OF ARKANSAS FOR MED SCIS</td>
+				
+					<td>111</td>
+				
+                    <td>$66,322,280</td>
+				
+					<td>LITTLE ROCK</td>
+				
+					<td>AR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIV OF CALIF/DIV/AGRICULTURE/NAT/RESOUR</td>
+				
+					<td>1</td>
+				
+                    <td>$757,298</td>
+				
+					<td>OAKLAND</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIV OF MARYLAND, COLLEGE PARK</td>
+				
+					<td>154</td>
+				
+                    <td>$62,560,296</td>
+				
+					<td>COLLEGE PARK</td>
+				
+					<td>MD</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIV OF MASSACHUSETTS MED SCH WORCESTER</td>
+				
+					<td>348</td>
+				
+                    <td>$176,823,159</td>
+				
+					<td>WORCESTER</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIV OF NORTH CAROLINA CHAPEL HILL</td>
+				
+					<td>1003</td>
+				
+                    <td>$546,090,766</td>
+				
+					<td>CHAPEL HILL</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSIDAD CENTRAL DEL CARIBE</td>
+				
+					<td>6</td>
+				
+                    <td>$734,614</td>
+				
+					<td>BAYAMON</td>
+				
+					<td>PR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF AKRON</td>
+				
+					<td>1</td>
+				
+                    <td>$439,448</td>
+				
+					<td>AKRON</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF ALABAMA AT BIRMINGHAM</td>
+				
+					<td>630</td>
+				
+                    <td>$322,729,667</td>
+				
+					<td>BIRMINGHAM</td>
+				
+					<td>AL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF ALABAMA IN HUNTSVILLE</td>
+				
+					<td>1</td>
+				
+                    <td>$495,204</td>
+				
+					<td>HUNTSVILLE</td>
+				
+					<td>AL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF ALABAMA IN TUSCALOOSA</td>
+				
+					<td>29</td>
+				
+                    <td>$11,206,726</td>
+				
+					<td>TUSCALOOSA</td>
+				
+					<td>AL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF ALASKA ANCHORAGE</td>
+				
+					<td>2</td>
+				
+                    <td>$296,761</td>
+				
+					<td>ANCHORAGE</td>
+				
+					<td>AK</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF ALASKA FAIRBANKS</td>
+				
+					<td>12</td>
+				
+                    <td>$9,906,384</td>
+				
+					<td>FAIRBANKS</td>
+				
+					<td>AK</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF ARIZONA</td>
+				
+					<td>330</td>
+				
+                    <td>$197,714,338</td>
+				
+					<td>TUCSON</td>
+				
+					<td>AZ</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF ARKANSAS AT FAYETTEVILLE</td>
+				
+					<td>22</td>
+				
+                    <td>$8,712,345</td>
+				
+					<td>FAYETTEVILLE</td>
+				
+					<td>AR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CALIFORNIA AT DAVIS</td>
+				
+					<td>562</td>
+				
+                    <td>$279,659,516</td>
+				
+					<td>DAVIS</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CALIFORNIA BERKELEY</td>
+				
+					<td>332</td>
+				
+                    <td>$142,726,455</td>
+				
+					<td>BERKELEY</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CALIFORNIA LOS ANGELES</td>
+				
+					<td>888</td>
+				
+                    <td>$578,219,403</td>
+				
+					<td>LOS ANGELES</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CALIFORNIA RIVERSIDE</td>
+				
+					<td>93</td>
+				
+                    <td>$33,654,256</td>
+				
+					<td>RIVERSIDE</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CALIFORNIA SANTA BARBARA</td>
+				
+					<td>71</td>
+				
+                    <td>$24,606,335</td>
+				
+					<td>SANTA BARBARA</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CALIFORNIA SANTA CRUZ</td>
+				
+					<td>101</td>
+				
+                    <td>$49,294,091</td>
+				
+					<td>SANTA CRUZ</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CALIFORNIA, MERCED</td>
+				
+					<td>21</td>
+				
+                    <td>$6,361,799</td>
+				
+					<td>MERCED</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CALIFORNIA, SAN DIEGO</td>
+				
+					<td>1081</td>
+				
+                    <td>$569,797,447</td>
+				
+					<td>LA JOLLA</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CALIFORNIA, SAN FRANCISCO</td>
+				
+					<td>1475</td>
+				
+                    <td>$783,853,380</td>
+				
+					<td>SAN FRANCISCO</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CALIFORNIA-IRVINE</td>
+				
+					<td>434</td>
+				
+                    <td>$207,662,345</td>
+				
+					<td>IRVINE</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CENTRAL FLORIDA</td>
+				
+					<td>42</td>
+				
+                    <td>$16,883,072</td>
+				
+					<td>ORLANDO</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CHICAGO</td>
+				
+					<td>475</td>
+				
+                    <td>$262,911,395</td>
+				
+					<td>CHICAGO</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CINCINNATI</td>
+				
+					<td>191</td>
+				
+                    <td>$84,745,602</td>
+				
+					<td>CINCINNATI</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF COLORADO</td>
+				
+					<td>161</td>
+				
+                    <td>$60,562,022</td>
+				
+					<td>Boulder</td>
+				
+					<td>CO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF COLORADO</td>
+				
+					<td>4</td>
+				
+                    <td>$1,505,401</td>
+				
+					<td>COLORADO SPRINGS</td>
+				
+					<td>CO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF COLORADO DENVER</td>
+				
+					<td>786</td>
+				
+                    <td>$358,577,113</td>
+				
+					<td>Aurora</td>
+				
+					<td>CO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CONNECTICUT SCH OF MED/DNT</td>
+				
+					<td>159</td>
+				
+                    <td>$70,309,234</td>
+				
+					<td>FARMINGTON</td>
+				
+					<td>CT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF CONNECTICUT STORRS</td>
+				
+					<td>116</td>
+				
+                    <td>$36,189,749</td>
+				
+					<td>STORRS-MANSFIELD</td>
+				
+					<td>CT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF DAYTON</td>
+				
+					<td>4</td>
+				
+                    <td>$1,034,751</td>
+				
+					<td>DAYTON</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF DELAWARE</td>
+				
+					<td>96</td>
+				
+                    <td>$48,172,715</td>
+				
+					<td>NEWARK</td>
+				
+					<td>DE</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF DENVER (COLORADO SEMINARY)</td>
+				
+					<td>23</td>
+				
+                    <td>$6,770,141</td>
+				
+					<td>DENVER</td>
+				
+					<td>CO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF DETROIT MERCY</td>
+				
+					<td>4</td>
+				
+                    <td>$3,120,315</td>
+				
+					<td>DETROIT</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF FLORIDA</td>
+				
+					<td>611</td>
+				
+                    <td>$272,488,929</td>
+				
+					<td>GAINESVILLE</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF GEORGIA</td>
+				
+					<td>175</td>
+				
+                    <td>$66,700,293</td>
+				
+					<td>ATHENS</td>
+				
+					<td>GA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF GUAM</td>
+				
+					<td>2</td>
+				
+                    <td>$1,903,505</td>
+				
+					<td>MANGILAO</td>
+				
+					<td>GU</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF HAWAII AT HILO</td>
+				
+					<td>1</td>
+				
+                    <td>$218,250</td>
+				
+					<td>HILO</td>
+				
+					<td>HI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF HAWAII AT MANOA</td>
+				
+					<td>75</td>
+				
+                    <td>$55,977,378</td>
+				
+					<td>HONOLULU</td>
+				
+					<td>HI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF HOUSTON</td>
+				
+					<td>123</td>
+				
+                    <td>$44,595,520</td>
+				
+					<td>HOUSTON</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF IDAHO</td>
+				
+					<td>13</td>
+				
+                    <td>$9,117,401</td>
+				
+					<td>MOSCOW</td>
+				
+					<td>ID</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF ILLINOIS AT CHICAGO</td>
+				
+					<td>382</td>
+				
+                    <td>$157,463,328</td>
+				
+					<td>Chicago</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN</td>
+				
+					<td>198</td>
+				
+                    <td>$80,220,476</td>
+				
+					<td>CHAMPAIGN</td>
+				
+					<td>IL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF IOWA</td>
+				
+					<td>402</td>
+				
+                    <td>$176,552,229</td>
+				
+					<td>IOWA CITY</td>
+				
+					<td>IA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF KANSAS LAWRENCE</td>
+				
+					<td>60</td>
+				
+                    <td>$23,417,117</td>
+				
+					<td>LAWRENCE</td>
+				
+					<td>KS</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF KANSAS MEDICAL CENTER</td>
+				
+					<td>176</td>
+				
+                    <td>$102,986,873</td>
+				
+					<td>KANSAS CITY</td>
+				
+					<td>KS</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF KENTUCKY</td>
+				
+					<td>297</td>
+				
+                    <td>$148,583,112</td>
+				
+					<td>LEXINGTON</td>
+				
+					<td>KY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF LOUISIANA AT LAFAYETTE</td>
+				
+					<td>3</td>
+				
+                    <td>$2,846,448</td>
+				
+					<td>LAFAYETTE</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF LOUISIANA AT MONROE</td>
+				
+					<td>2</td>
+				
+                    <td>$177,883</td>
+				
+					<td>MONROE</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF LOUISVILLE</td>
+				
+					<td>142</td>
+				
+                    <td>$67,579,420</td>
+				
+					<td>LOUISVILLE</td>
+				
+					<td>KY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MAINE ORONO</td>
+				
+					<td>9</td>
+				
+                    <td>$4,662,630</td>
+				
+					<td>ORONO</td>
+				
+					<td>ME</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MARYLAND BALTIMORE</td>
+				
+					<td>409</td>
+				
+                    <td>$203,532,892</td>
+				
+					<td>BALTIMORE</td>
+				
+					<td>MD</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MARYLAND BALTIMORE COUNTY</td>
+				
+					<td>20</td>
+				
+                    <td>$9,152,532</td>
+				
+					<td>BALTIMORE</td>
+				
+					<td>MD</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MARYLAND EASTERN SHORE</td>
+				
+					<td>1</td>
+				
+                    <td>$266,665</td>
+				
+					<td>PRINCESS ANNE</td>
+				
+					<td>MD</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MASSACHUSETTS AMHERST</td>
+				
+					<td>132</td>
+				
+                    <td>$46,047,111</td>
+				
+					<td>HADLEY</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MASSACHUSETTS BOSTON</td>
+				
+					<td>14</td>
+				
+                    <td>$6,628,913</td>
+				
+					<td>BOSTON</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MASSACHUSETTS DARTMOUTH</td>
+				
+					<td>3</td>
+				
+                    <td>$1,882,732</td>
+				
+					<td>NORTH DARTMOUTH</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MASSACHUSETTS LOWELL</td>
+				
+					<td>22</td>
+				
+                    <td>$12,331,150</td>
+				
+					<td>LOWELL</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MEMPHIS</td>
+				
+					<td>16</td>
+				
+                    <td>$5,477,903</td>
+				
+					<td>MEMPHIS</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MIAMI CORAL GABLES</td>
+				
+					<td>44</td>
+				
+                    <td>$17,661,932</td>
+				
+					<td>CORAL GABLES</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MIAMI ROSENTEIL SCHOOL</td>
+				
+					<td>1</td>
+				
+                    <td>$565,533</td>
+				
+					<td>KEY BISCAYNE</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MIAMI SCHOOL OF MEDICINE</td>
+				
+					<td>310</td>
+				
+                    <td>$175,177,050</td>
+				
+					<td>CORAL GABLES</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MICHIGAN AT ANN ARBOR</td>
+				
+					<td>1385</td>
+				
+                    <td>$692,407,438</td>
+				
+					<td>ANN ARBOR</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MICHIGAN AT FLINT</td>
+				
+					<td>1</td>
+				
+                    <td>$466,637</td>
+				
+					<td>FLINT</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MINNESOTA</td>
+				
+					<td>781</td>
+				
+                    <td>$373,975,795</td>
+				
+					<td>MINNEAPOLIS</td>
+				
+					<td>MN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MINNESOTA DULUTH</td>
+				
+					<td>2</td>
+				
+                    <td>$840,288</td>
+				
+					<td>DULUTH</td>
+				
+					<td>MN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MISSISSIPPI</td>
+				
+					<td>11</td>
+				
+                    <td>$6,332,606</td>
+				
+					<td>UNIVERSITY</td>
+				
+					<td>MS</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MISSISSIPPI MED CTR</td>
+				
+					<td>51</td>
+				
+                    <td>$26,334,076</td>
+				
+					<td>JACKSON</td>
+				
+					<td>MS</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MISSOURI KANSAS CITY</td>
+				
+					<td>22</td>
+				
+                    <td>$10,083,335</td>
+				
+					<td>KANSAS CITY</td>
+				
+					<td>MO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MISSOURI-COLUMBIA</td>
+				
+					<td>177</td>
+				
+                    <td>$77,772,049</td>
+				
+					<td>COLUMBIA</td>
+				
+					<td>MO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MISSOURI-ST. LOUIS</td>
+				
+					<td>6</td>
+				
+                    <td>$1,170,591</td>
+				
+					<td>SAINT LOUIS</td>
+				
+					<td>MO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF MONTANA</td>
+				
+					<td>23</td>
+				
+                    <td>$9,440,419</td>
+				
+					<td>MISSOULA</td>
+				
+					<td>MT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NEBRASKA KEARNEY</td>
+				
+					<td>1</td>
+				
+                    <td>$402,782</td>
+				
+					<td>KEARNEY</td>
+				
+					<td>NE</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NEBRASKA LINCOLN</td>
+				
+					<td>47</td>
+				
+                    <td>$21,486,205</td>
+				
+					<td>LINCOLN</td>
+				
+					<td>NE</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NEBRASKA MEDICAL CENTER</td>
+				
+					<td>199</td>
+				
+                    <td>$98,617,473</td>
+				
+					<td>OMAHA</td>
+				
+					<td>NE</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NEBRASKA OMAHA</td>
+				
+					<td>7</td>
+				
+                    <td>$4,009,407</td>
+				
+					<td>OMAHA</td>
+				
+					<td>NE</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NEVADA LAS VEGAS</td>
+				
+					<td>22</td>
+				
+                    <td>$9,416,816</td>
+				
+					<td>LAS VEGAS</td>
+				
+					<td>NV</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NEVADA RENO</td>
+				
+					<td>44</td>
+				
+                    <td>$24,452,445</td>
+				
+					<td>RENO</td>
+				
+					<td>NV</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NEW ENGLAND</td>
+				
+					<td>9</td>
+				
+                    <td>$4,567,739</td>
+				
+					<td>BIDDEFORD</td>
+				
+					<td>ME</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NEW HAMPSHIRE</td>
+				
+					<td>11</td>
+				
+                    <td>$5,888,858</td>
+				
+					<td>DURHAM</td>
+				
+					<td>NH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NEW MEXICO</td>
+				
+					<td>34</td>
+				
+                    <td>$18,613,409</td>
+				
+					<td>ALBUQUERQUE</td>
+				
+					<td>NM</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NEW MEXICO HEALTH SCIS CTR</td>
+				
+					<td>108</td>
+				
+                    <td>$70,010,791</td>
+				
+					<td>ALBUQUERQUE</td>
+				
+					<td>NM</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NORTH CAROLINA  ASHEVILLE</td>
+				
+					<td>1</td>
+				
+                    <td>$377,693</td>
+				
+					<td>ASHEVILLE</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NORTH CAROLINA CHARLOTTE</td>
+				
+					<td>32</td>
+				
+                    <td>$9,164,544</td>
+				
+					<td>CHARLOTTE</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NORTH CAROLINA GREENSBORO</td>
+				
+					<td>22</td>
+				
+                    <td>$7,731,153</td>
+				
+					<td>GREENSBORO</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NORTH CAROLINA WILMINGTON</td>
+				
+					<td>3</td>
+				
+                    <td>$918,427</td>
+				
+					<td>WILMINGTON</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NORTH DAKOTA</td>
+				
+					<td>22</td>
+				
+                    <td>$18,887,352</td>
+				
+					<td>GRAND FORKS</td>
+				
+					<td>ND</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NORTH FLORIDA</td>
+				
+					<td>1</td>
+				
+                    <td>$132,181</td>
+				
+					<td>JACKSONVILLE</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NORTH TEXAS</td>
+				
+					<td>18</td>
+				
+                    <td>$4,882,980</td>
+				
+					<td>DENTON</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NORTH TEXAS HLTH SCI CTR</td>
+				
+					<td>35</td>
+				
+                    <td>$75,179,073</td>
+				
+					<td>FORT WORTH</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF NOTRE DAME</td>
+				
+					<td>67</td>
+				
+                    <td>$24,724,476</td>
+				
+					<td>NOTRE DAME</td>
+				
+					<td>IN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF OKLAHOMA</td>
+				
+					<td>35</td>
+				
+                    <td>$14,748,367</td>
+				
+					<td>NORMAN</td>
+				
+					<td>OK</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF OKLAHOMA HLTH SCIENCES CTR</td>
+				
+					<td>127</td>
+				
+                    <td>$59,179,469</td>
+				
+					<td>OKLAHOMA CITY</td>
+				
+					<td>OK</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF OREGON</td>
+				
+					<td>112</td>
+				
+                    <td>$43,762,494</td>
+				
+					<td>EUGENE</td>
+				
+					<td>OR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF PENNSYLVANIA</td>
+				
+					<td>1310</td>
+				
+                    <td>$683,236,804</td>
+				
+					<td>PHILADELPHIA</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF PITTSBURGH AT PITTSBURGH</td>
+				
+					<td>1239</td>
+				
+                    <td>$655,613,009</td>
+				
+					<td>PITTSBURGH</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF PORTLAND</td>
+				
+					<td>2</td>
+				
+                    <td>$802,704</td>
+				
+					<td>PORTLAND</td>
+				
+					<td>OR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF PR CAYEY UNIVERSITY COLL</td>
+				
+					<td>1</td>
+				
+                    <td>$403,952</td>
+				
+					<td>CAYEY</td>
+				
+					<td>PR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF PUERTO RICO</td>
+				
+					<td>1</td>
+				
+                    <td>$7,897,996</td>
+				
+					<td>SAN JUAN</td>
+				
+					<td>PR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF PUERTO RICO AT AGUADILLA</td>
+				
+					<td>2</td>
+				
+                    <td>$182,442</td>
+				
+					<td>AGUADILLA</td>
+				
+					<td>PR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF PUERTO RICO AT HUMACAO</td>
+				
+					<td>1</td>
+				
+                    <td>$381,326</td>
+				
+					<td>HUMACAO</td>
+				
+					<td>PR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF PUERTO RICO MAYAGUEZ</td>
+				
+					<td>2</td>
+				
+                    <td>$527,147</td>
+				
+					<td>MAYAGUEZ</td>
+				
+					<td>PR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF PUERTO RICO MED SCIENCES</td>
+				
+					<td>39</td>
+				
+                    <td>$28,268,325</td>
+				
+					<td>SAN JUAN</td>
+				
+					<td>PR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF PUERTO RICO PONCE</td>
+				
+					<td>1</td>
+				
+                    <td>$225,200</td>
+				
+					<td>PONCE</td>
+				
+					<td>PR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF PUERTO RICO RIO PIEDRAS</td>
+				
+					<td>5</td>
+				
+                    <td>$2,946,126</td>
+				
+					<td>SAN JUAN</td>
+				
+					<td>PR</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF RHODE ISLAND</td>
+				
+					<td>31</td>
+				
+                    <td>$17,788,990</td>
+				
+					<td>KINGSTON</td>
+				
+					<td>RI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF ROCHESTER</td>
+				
+					<td>415</td>
+				
+                    <td>$184,258,435</td>
+				
+					<td>ROCHESTER</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF SAN FRANCISCO</td>
+				
+					<td>3</td>
+				
+                    <td>$663,941</td>
+				
+					<td>SAN FRANCISCO</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF SOUTH ALABAMA</td>
+				
+					<td>16</td>
+				
+                    <td>$6,727,444</td>
+				
+					<td>MOBILE</td>
+				
+					<td>AL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF SOUTH CAROLINA</td>
+				
+					<td>1</td>
+				
+                    <td>$406,504</td>
+				
+					<td>SPARTANBURG</td>
+				
+					<td>SC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF SOUTH CAROLINA AT COLUMBIA</td>
+				
+					<td>149</td>
+				
+                    <td>$67,400,069</td>
+				
+					<td>COLUMBIA</td>
+				
+					<td>SC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF SOUTH DAKOTA</td>
+				
+					<td>18</td>
+				
+                    <td>$8,779,415</td>
+				
+					<td>VERMILLION</td>
+				
+					<td>SD</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF SOUTH FLORIDA</td>
+				
+					<td>149</td>
+				
+                    <td>$121,973,771</td>
+				
+					<td>TAMPA</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF SOUTHERN CALIFORNIA</td>
+				
+					<td>530</td>
+				
+                    <td>$354,485,864</td>
+				
+					<td>Los Angeles</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF SOUTHERN MAINE</td>
+				
+					<td>1</td>
+				
+                    <td>$73,850</td>
+				
+					<td>PORTLAND</td>
+				
+					<td>ME</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF SOUTHERN MISSISSIPPI</td>
+				
+					<td>9</td>
+				
+                    <td>$5,547,687</td>
+				
+					<td>HATTIESBURG</td>
+				
+					<td>MS</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TENNESSEE CHATTANOOGA</td>
+				
+					<td>2</td>
+				
+                    <td>$382,128</td>
+				
+					<td>CHATTANOOGA</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TENNESSEE HEALTH SCI CTR</td>
+				
+					<td>112</td>
+				
+                    <td>$55,285,819</td>
+				
+					<td>MEMPHIS</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TENNESSEE KNOXVILLE</td>
+				
+					<td>34</td>
+				
+                    <td>$11,376,339</td>
+				
+					<td>KNOXVILLE</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TENNESSEE SPACE INSTITUTE</td>
+				
+					<td>1</td>
+				
+                    <td>$451,089</td>
+				
+					<td>TULLAHOMA</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS ARLINGTON</td>
+				
+					<td>41</td>
+				
+                    <td>$11,265,640</td>
+				
+					<td>ARLINGTON</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS AT AUSTIN</td>
+				
+					<td>278</td>
+				
+                    <td>$106,663,244</td>
+				
+					<td>AUSTIN</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS DALLAS</td>
+				
+					<td>70</td>
+				
+                    <td>$23,411,910</td>
+				
+					<td>RICHARDSON</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS EL PASO</td>
+				
+					<td>46</td>
+				
+                    <td>$17,835,432</td>
+				
+					<td>EL PASO</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS HLTH CTR AT TYLER</td>
+				
+					<td>10</td>
+				
+                    <td>$3,518,725</td>
+				
+					<td>TYLER</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS HLTH SCI CTR HOUSTON</td>
+				
+					<td>319</td>
+				
+                    <td>$150,260,597</td>
+				
+					<td>HOUSTON</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS HLTH SCIENCE CENTER</td>
+				
+					<td>242</td>
+				
+                    <td>$130,750,701</td>
+				
+					<td>SAN ANTONIO</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS MED BR GALVESTON</td>
+				
+					<td>145</td>
+				
+                    <td>$107,762,495</td>
+				
+					<td>GALVESTON</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS OF THE PERMIAN BASIN</td>
+				
+					<td>1</td>
+				
+                    <td>$484,198</td>
+				
+					<td>ODESSA</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS RIO GRANDE VALLEY</td>
+				
+					<td>28</td>
+				
+                    <td>$10,827,930</td>
+				
+					<td>EDINBURG</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS SAN ANTONIO</td>
+				
+					<td>35</td>
+				
+                    <td>$13,966,238</td>
+				
+					<td>SAN ANTONIO</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TEXAS TYLER</td>
+				
+					<td>1</td>
+				
+                    <td>$147,000</td>
+				
+					<td>TYLER</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF THE INCARNATE WORD</td>
+				
+					<td>7</td>
+				
+                    <td>$611,004</td>
+				
+					<td>SAN ANTONIO</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF THE PACIFIC-STOCKTON</td>
+				
+					<td>6</td>
+				
+                    <td>$1,814,684</td>
+				
+					<td>STOCKTON</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF THE VIRGIN ISLANDS</td>
+				
+					<td>2</td>
+				
+                    <td>$738,276</td>
+				
+					<td>ST. THOMAS</td>
+				
+					<td>VI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TOLEDO</td>
+				
+					<td>13</td>
+				
+                    <td>$3,940,109</td>
+				
+					<td>TOLEDO</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TOLEDO HEALTH SCI CAMPUS</td>
+				
+					<td>33</td>
+				
+                    <td>$10,781,828</td>
+				
+					<td>TOLEDO</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TULSA</td>
+				
+					<td>1</td>
+				
+                    <td>$566,375</td>
+				
+					<td>TULSA</td>
+				
+					<td>OK</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF TX MD ANDERSON CAN CTR</td>
+				
+					<td>360</td>
+				
+                    <td>$188,533,166</td>
+				
+					<td>HOUSTON</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF UTAH</td>
+				
+					<td>573</td>
+				
+                    <td>$255,435,277</td>
+				
+					<td>SALT LAKE CITY</td>
+				
+					<td>UT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF VERMONT & ST AGRIC COLLEGE</td>
+				
+					<td>99</td>
+				
+                    <td>$52,145,910</td>
+				
+					<td>BURLINGTON</td>
+				
+					<td>VT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF VIRGINIA</td>
+				
+					<td>434</td>
+				
+                    <td>$198,290,350</td>
+				
+					<td>CHARLOTTESVILLE</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF WASHINGTON</td>
+				
+					<td>1021</td>
+				
+                    <td>$541,862,926</td>
+				
+					<td>SEATTLE</td>
+				
+					<td>WA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF WEST FLORIDA</td>
+				
+					<td>1</td>
+				
+                    <td>$298,913</td>
+				
+					<td>PENSACOLA</td>
+				
+					<td>FL</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF WISCONSIN EAU CLAIRE</td>
+				
+					<td>1</td>
+				
+                    <td>$99,900</td>
+				
+					<td>EAU CLAIRE</td>
+				
+					<td>WI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF WISCONSIN LA CROSSE</td>
+				
+					<td>1</td>
+				
+                    <td>$335,000</td>
+				
+					<td>LA CROSSE</td>
+				
+					<td>WI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF WISCONSIN MILWAUKEE</td>
+				
+					<td>21</td>
+				
+                    <td>$8,718,399</td>
+				
+					<td>MILWAUKEE</td>
+				
+					<td>WI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF WISCONSIN PARKSIDE</td>
+				
+					<td>1</td>
+				
+                    <td>$372,500</td>
+				
+					<td>KENOSHA</td>
+				
+					<td>WI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF WISCONSIN-MADISON</td>
+				
+					<td>678</td>
+				
+                    <td>$444,904,913</td>
+				
+					<td>MADISON</td>
+				
+					<td>WI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UNIVERSITY OF WYOMING</td>
+				
+					<td>22</td>
+				
+                    <td>$11,970,939</td>
+				
+					<td>LARAMIE</td>
+				
+					<td>WY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UPSTATE MEDICAL UNIVERSITY</td>
+				
+					<td>70</td>
+				
+                    <td>$28,876,232</td>
+				
+					<td>SYRACUSE</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>URSINUS COLLEGE</td>
+				
+					<td>2</td>
+				
+                    <td>$768,223</td>
+				
+					<td>COLLEGEVILLE</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UT SOUTHWESTERN MEDICAL CENTER</td>
+				
+					<td>604</td>
+				
+                    <td>$290,258,129</td>
+				
+					<td>DALLAS</td>
+				
+					<td>TX</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>UTAH STATE UNIVERSITY</td>
+				
+					<td>17</td>
+				
+                    <td>$4,813,840</td>
+				
+					<td>LOGAN</td>
+				
+					<td>UT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>VANDERBILT UNIVERSITY</td>
+				
+					<td>349</td>
+				
+                    <td>$117,136,521</td>
+				
+					<td>Nashville</td>
+				
+					<td>TN</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>VASSAR COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$146,459</td>
+				
+					<td>POUGHKEEPSIE</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>VILLANOVA UNIVERSITY</td>
+				
+					<td>4</td>
+				
+                    <td>$1,471,291</td>
+				
+					<td>VILLANOVA</td>
+				
+					<td>PA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>VIRGINIA COMMONWEALTH UNIVERSITY</td>
+				
+					<td>262</td>
+				
+                    <td>$104,206,329</td>
+				
+					<td>RICHMOND</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>VIRGINIA POLYTECHNIC INST AND ST UNIV</td>
+				
+					<td>149</td>
+				
+                    <td>$55,734,450</td>
+				
+					<td>BLACKSBURG</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>VIRGINIA STATE UNIVERSITY</td>
+				
+					<td>3</td>
+				
+                    <td>$312,883</td>
+				
+					<td>PETERSBURG</td>
+				
+					<td>VA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WAKE FOREST UNIVERSITY</td>
+				
+					<td>10</td>
+				
+                    <td>$7,843,218</td>
+				
+					<td>WINSTON-SALEM</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WAKE FOREST UNIVERSITY HEALTH SCIENCES</td>
+				
+					<td>262</td>
+				
+                    <td>$148,156,741</td>
+				
+					<td>WINSTON-SALEM</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WASHINGTON STATE UNIVERSITY</td>
+				
+					<td>99</td>
+				
+                    <td>$40,226,416</td>
+				
+					<td>PULLMAN</td>
+				
+					<td>WA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WASHINGTON UNIVERSITY</td>
+				
+					<td>1180</td>
+				
+                    <td>$631,458,063</td>
+				
+					<td>SAINT LOUIS</td>
+				
+					<td>MO</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WAYNE STATE UNIVERSITY</td>
+				
+					<td>172</td>
+				
+                    <td>$77,931,084</td>
+				
+					<td>DETROIT</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WEILL MEDICAL COLL OF CORNELL UNIV</td>
+				
+					<td>561</td>
+				
+                    <td>$317,494,983</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WELLESLEY COLLEGE</td>
+				
+					<td>5</td>
+				
+                    <td>$1,280,189</td>
+				
+					<td>WELLESLEY</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WESLEYAN UNIVERSITY</td>
+				
+					<td>4</td>
+				
+                    <td>$1,636,000</td>
+				
+					<td>MIDDLETOWN</td>
+				
+					<td>CT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WEST LIBERTY UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$421,500</td>
+				
+					<td>WEST LIBERTY</td>
+				
+					<td>WV</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WEST VIRGINIA UNIVERSITY</td>
+				
+					<td>82</td>
+				
+                    <td>$43,874,770</td>
+				
+					<td>MORGANTOWN</td>
+				
+					<td>WV</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WEST VIRGINIA UNIVERSITY</td>
+				
+					<td>4</td>
+				
+                    <td>$1,115,990</td>
+				
+					<td>MORGANTOWN</td>
+				
+					<td>WV</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WESTERN KENTUCKY UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$418,800</td>
+				
+					<td>BOWLING GREEN</td>
+				
+					<td>KY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WESTERN MICHIGAN UNIV SCHOOL OF MEDICINE</td>
+				
+					<td>3</td>
+				
+                    <td>$995,916</td>
+				
+					<td>KALAMAZOO</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WESTERN MICHIGAN UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$444,329</td>
+				
+					<td>KALAMAZOO</td>
+				
+					<td>MI</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WESTERN UNIVERSITY OF HEALTH SCIENCES</td>
+				
+					<td>6</td>
+				
+                    <td>$1,825,468</td>
+				
+					<td>POMONA</td>
+				
+					<td>CA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WESTERN WASHINGTON UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$386,719</td>
+				
+					<td>BELLINGHAM</td>
+				
+					<td>WA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WHEELING JESUIT UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$270,000</td>
+				
+					<td>WHEELING</td>
+				
+					<td>WV</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WICHITA STATE UNIVERSITY</td>
+				
+					<td>3</td>
+				
+                    <td>$2,675,689</td>
+				
+					<td>WICHITA</td>
+				
+					<td>KS</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WILLIAMS COLLEGE</td>
+				
+					<td>1</td>
+				
+                    <td>$435,109</td>
+				
+					<td>WILLIAMSTOWN</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WINSTON-SALEM STATE UNIVERSITY</td>
+				
+					<td>1</td>
+				
+                    <td>$133,559</td>
+				
+					<td>WINSTON-SALEM</td>
+				
+					<td>NC</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WORCESTER POLYTECHNIC INSTITUTE</td>
+				
+					<td>16</td>
+				
+                    <td>$6,683,438</td>
+				
+					<td>WORCESTER</td>
+				
+					<td>MA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>WRIGHT STATE UNIVERSITY</td>
+				
+					<td>15</td>
+				
+                    <td>$4,938,075</td>
+				
+					<td>DAYTON</td>
+				
+					<td>OH</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>XAVIER UNIVERSITY OF LOUISIANA</td>
+				
+					<td>16</td>
+				
+                    <td>$12,387,101</td>
+				
+					<td>NEW ORLEANS</td>
+				
+					<td>LA</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>YALE UNIVERSITY</td>
+				
+					<td>1162</td>
+				
+                    <td>$621,412,507</td>
+				
+					<td>NEW HAVEN</td>
+				
+					<td>CT</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>YESHIVA UNIVERSITY</td>
+				
+					<td>2</td>
+				
+                    <td>$604,060</td>
+				
+					<td>NEW YORK</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+            <tr>
+                
+					<td>YORK COLLEGE</td>
+				
+					<td>3</td>
+				
+                    <td>$443,292</td>
+				
+					<td>JAMAICA</td>
+				
+					<td>NY</td>
+				
+					<td>UNITED STATES</td>
+				
+            </tr>
+        
+    </table>
+	
