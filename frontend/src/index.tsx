@@ -3,13 +3,34 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { ConfigProvider, theme } from 'antd';
+import enUS from 'antd/es/locale/en_US';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
-    <App />
+    <ConfigProvider
+          locale={enUS}
+          theme={{
+            inherit: false,
+            algorithm: theme.darkAlgorithm,
+            token: {
+              colorText: 'white',
+              colorTextHeading: 'white',
+            },
+            components: {
+              Typography: {
+                colorText: 'white',
+                colorTextHeading: 'white',
+              },
+            },
+          }}
+    
+    >
+      <App />
+    </ConfigProvider>
   </React.StrictMode>
 );
 
