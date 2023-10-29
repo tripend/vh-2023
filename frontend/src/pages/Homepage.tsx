@@ -5,19 +5,32 @@ import { Layout, Row, Col, Input, Button, Typography, Divider, AutoComplete } fr
 import { processUniversities } from '../parser';
 import jsonData from '../data/data.json';
 import { convertOrgName } from '../parser';
+import { useNavigate } from 'react-router-dom';
 
 const { Content } = Layout;
 const { Title } = Typography;
 
 const Homepage: React.FC = () => {
   const [searchValue, setSearchValue] = React.useState('');
+  const [selectedOrganization, setSelectedOrganization] = React.useState('');
   const [options, setOptions] = React.useState<{ value: string }[]>([]);
+  const navigate = useNavigate();
 
   const onSearch = (searchText: string) => {
     const filteredOptions = jsonData
       .filter(item => item.ORGANIZATION.toLowerCase().includes(searchText.toLowerCase()))
       .map(item => ({ value: convertOrgName(item.ORGANIZATION) }));
     setOptions(filteredOptions);
+  };
+
+  const onSelect = (value: string) => {
+    setSelectedOrganization(value);
+  };
+
+  const onButtonClick = () => {
+    if (selectedOrganization) {
+      navigate(`/organization/${selectedOrganization}`);
+    }
   };
 
   return (
@@ -33,11 +46,11 @@ const Homepage: React.FC = () => {
           <AutoComplete
             options={options}
             style={{ width: '100%', marginBottom: "20px" }}
-            onSelect={(value) => console.log('onSelect', value)}
+            onSelect={onSelect}
             onSearch={onSearch}
             placeholder="Your school"
           >
-            <Input.Search size="large" />
+            <Input.Search size="large" onSearch={onButtonClick} />
           </AutoComplete>
           <Button type="link" block style={{ marginBottom: "20px" }}>
             I don't see my school

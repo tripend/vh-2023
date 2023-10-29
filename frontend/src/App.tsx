@@ -6,6 +6,7 @@ import AboutPage from './pages/AboutPage'
 import HomePage from './pages/Homepage'
 import FeedbackPage from './pages/FeedbackPage'
 import ReviewPage from './pages/ReviewPage'
+import OrganizationPage from './pages/OrganizationPage'
 
 
 const { Text } = Typography;
@@ -31,6 +32,7 @@ const App = () => {
           <Route path="/about" element={<AboutPage />} />
           <Route path="/feed" element={<FeedbackPage />} />
           <Route path="/review" element={<ReviewPage />} />
+          <Route path="/organization/:orgName" element={<OrganizationPage />} />
         </Routes>
 
         <Footer style={{ textAlign: 'center' }}>
