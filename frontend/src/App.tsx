@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import AboutPage from './pages/AboutPage'
 import HomePage from './pages/Homepage'
 import FeedbackPage from './pages/FeedbackPage'
+import ReviewPage from './pages/ReviewPage'
 
 
 const { Text } = Typography;
@@ -29,6 +30,7 @@ const App = () => {
           <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/feed" element={<FeedbackPage />} />
+          <Route path="/review" element={<ReviewPage />} />
         </Routes>
 
         <Footer style={{ textAlign: 'center' }}>
