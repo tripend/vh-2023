@@ -2,19 +2,18 @@ import React from 'react';
 import { Input, Button, Row, Col, Typography, Divider, Layout, Menu } from 'antd';
 import { InfoCircleOutlined, HomeOutlined } from '@ant-design/icons';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import blackBg from './blackbg.png';
 import AboutPage from './pages/AboutPage'
 import HomePage from './pages/Homepage'
 import FeedbackPage from './pages/FeedbackPage'
 
 
-const { Title, Text, Paragraph } = Typography;
+const { Text } = Typography;
 const { Header, Content, Footer } = Layout;
 
 const App = () => {
   return (
     <Router>
-      <Layout style={{ minHeight: '100vh', backgroundImage: `url(${blackBg})`, backgroundSize: 'cover' }}>
+      <Layout style={{ minHeight: '100vh', backgroundSize: 'cover' }}>
         <Header style={{ padding: '0 50px' }}>
           <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['home']}>
             <Menu.Item key="home" icon={<HomeOutlined />}>

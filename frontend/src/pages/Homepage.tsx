@@ -1,12 +1,14 @@
-// src/HomePage.tsx
+// src/Homepage.tsx
 
 import React from 'react';
 import { Layout, Row, Col, Input, Button, Typography, Divider } from 'antd';
+import { processUniversities } from '../parser';
+import jsonData from '../data/data.json';
 
 const { Content } = Layout;
 const { Title } = Typography;
 
-const HomePage: React.FC = () => (
+const Homepage: React.FC = () => (
   <Content style={{ padding: '50px', flex: '1 1 auto' }}>
     <Row justify="center" style={{ marginBottom: "50px" }}>
       <Title level={2}>College Accessibility Ratings</Title>
@@ -30,6 +32,14 @@ const HomePage: React.FC = () => (
     <Divider />
 
     <Row justify="center" gutter={[0, 24]}>
+      <Col span={14}>
+        {processUniversities(jsonData)}
+      </Col>
+    </Row>
+
+    <Divider />
+
+    <Row justify="center" gutter={[0, 24]}>
       <Col span={12}>
         <Button type="link" block style={{ color: "#1890ff" }}>
           Donate
@@ -39,4 +49,4 @@ const HomePage: React.FC = () => (
   </Content>
 );
 
-export default HomePage;
+export default Homepage;
