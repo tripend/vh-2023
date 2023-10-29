@@ -7,6 +7,7 @@ interface ListRatingProps {
     funding: string;
   }
 
+// TODO: change this function if you want to change the rating system
 function calculateFundingRating(funding: string): number {
     const fundingAmount = parseInt(funding.replace(/\D/g, ''), 10);
     if (fundingAmount < 200000) return 1;
@@ -17,12 +18,12 @@ function calculateFundingRating(funding: string): number {
   }
 
 const ListRatingComponent: React.FC<ListRatingProps> = ({ category, funding }) => {
+  const rating = calculateFundingRating(funding);
   return (
     <div>
       <label>{category}:</label>
       {[...Array(5)].map((_, index) => {
         const value = index + 1;
-        const rating = calculateFundingRating(funding);
         return (
           <span
             key={value}
@@ -36,6 +37,7 @@ const ListRatingComponent: React.FC<ListRatingProps> = ({ category, funding }) =
           </span>
         );
       })}
+      <span style={{ fontSize: '1rem', marginLeft: '10px' }}>({rating}/5)</span>
     </div>
   );
 };
