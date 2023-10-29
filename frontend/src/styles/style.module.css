@@ -1,0 +1,9 @@
+.fixed-width-label {
+    width: 250px; /* Adjust based on your needs */
+    display: inline-block;
+}
+
+.rating-input-container {
+    display: flex;
+    align-items: center;
+}

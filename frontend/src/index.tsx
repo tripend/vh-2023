@@ -5,12 +5,14 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { ConfigProvider, theme } from 'antd';
 import enUS from 'antd/es/locale/en_US';
+import Context from './components/Context'
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
+    <Context>
     <ConfigProvider
           locale={enUS}
           theme={{
@@ -31,6 +33,7 @@ root.render(
     >
       <App />
     </ConfigProvider>
+    </Context>
   </React.StrictMode>
 );
 
