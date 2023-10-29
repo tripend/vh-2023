@@ -18,7 +18,7 @@ interface UniversityCardProps {
   data: UniversityData;
 }
 
-const convertOrgName = (orgName: string) => {
+export const convertOrgName = (orgName: string) => {
   return orgName.toLowerCase().replace(/\b[a-z]/g, (letter) => letter.toUpperCase());
 };
 
@@ -51,9 +51,7 @@ const UniversityCard: React.FC<UniversityCardProps> = ({ index, data }) => (
 );
 
 export const processUniversities = (jsonData: UniversityData[]) => {
-  // Randomly pick 10 universities from the data
-  const shuffled = jsonData.sort(() => 0.5 - Math.random());
-  let selected = shuffled.slice(0, 10);
+  let selected = jsonData.slice(20, 30);
   
   // Sort them by their funding in descending order
   selected = selected.sort((a, b) => {
