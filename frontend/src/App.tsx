@@ -5,7 +5,6 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import blackBg from './blackbg.png';
 import AboutPage from './pages/AboutPage'
 import HomePage from './pages/Homepage'
-import HowItWorksPage from './pages/HowItWorksPage'
 import FeedbackPage from './pages/FeedbackPage'
 
 
@@ -24,16 +23,12 @@ const App = () => {
             <Menu.Item key="about" icon={<InfoCircleOutlined />}>
               <Link to="/about">About</Link>
             </Menu.Item>
-            <Menu.Item key="how">
-              <Link to="/how-it-works">How it works</Link>
-            </Menu.Item>
           </Menu>
         </Header>
 
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
-          <Route path="/how-it-works" element={<HowItWorksPage />} />
           <Route path="/feed" element={<FeedbackPage />} />
         </Routes>
 

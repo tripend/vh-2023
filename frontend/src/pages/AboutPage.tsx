@@ -1,7 +1,7 @@
 // AboutPage.tsx
 
 import React from 'react';
-import { Layout, Typography, Card } from 'antd';
+import { Layout, Typography, Card, Space } from 'antd';
 
 const { Content } = Layout;
 const { Title, Paragraph } = Typography;
@@ -18,6 +18,13 @@ const AboutPage: React.FC = () => (
       </Paragraph>
       <Paragraph style={{ fontSize: '18px' }}>
         We are so excited you checked out our page and take interest in changing the landscape of universal accessibility in higher education. Together, we can foster a more inclusive and supportive academic environment for all.
+      </Paragraph>
+    </Card>
+
+    <Title level={2} style={{ marginTop: '50px' }}>How It Works</Title>
+    <Card>
+      <Paragraph style={{ fontSize: '18px' }}>
+        Using eight categories (minimal physical barriers, transportation, dietary considerations, class accommodations, campus resources, professors and staff, student health, and the accessibility of the surrounding city), we have people of the disabled community rate their experiences with their own college on a scale from 0-5 with 5 being the best. Using these ratings, we then average it to have rankings for each university. We also show the NIH funding that each of the universities have to show how much money they have to use, and how little they are doing with that money.
       </Paragraph>
     </Card>
   </Content>
